@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#757575</item>
+        <item name="colorPrimaryDark">#424242</item>
+        <item name="colorAccent">#424242</item>
+    </style>
+    <style name="MyFloatingButtonUp" parent="Theme.AppCompat.Light">
+        <item name="colorAccent">#60A9DC</item>
+    </style>
+    <style name="MyFloatingButtonMiddle" parent="Theme.AppCompat.Light">
+        <item name="colorAccent">#85C441</item>
+    </style>
+    <style name="MyFloatingButtonDown" parent="Theme.AppCompat.Light">
+        <item name="colorAccent">#F42822</item>
+    </style>
+</resources>
